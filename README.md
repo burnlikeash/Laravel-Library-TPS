@@ -1,11 +1,11 @@
-# 📚 Library Transaction Processing System (TPS)
+# Library Transaction Processing System (TPS)
 
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-red?style=flat-square&logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-8.0+-blue?style=flat-square&logo=php)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?style=flat-square&logo=bootstrap)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-## 📖 Description / Overview
+## Description / Overview
 
 The **Library Transaction Processing System (TPS)** is a comprehensive web-based library management application built using **Laravel MVC architecture**. This system streamlines library operations by managing books, borrowers, and borrowing transactions with an intuitive, modern user interface.
 
@@ -13,7 +13,7 @@ The system provides real-time inventory tracking, automated overdue alerts, and 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 This project aims to achieve the following learning outcomes:
 
@@ -27,11 +27,11 @@ This project aims to achieve the following learning outcomes:
 
 ---
 
-## ✨ Features / Functionality
+## Features / Functionality
 
 ### **Core Features**
 
-#### 📚 **Book Management**
+#### **Book Management**
 - Add new books with title, author, ISBN, and quantity
 - Edit existing book information
 - Delete books from the system
@@ -40,14 +40,14 @@ This project aims to achieve the following learning outcomes:
 - Visual indicators for stock status (In Stock, Low Stock, Out of Stock)
 - Live search functionality to find books instantly
 
-#### 👥 **Borrower Management**
+#### **Borrower Management**
 - Register new library members with contact details
 - Update borrower information
 - Delete borrower records
 - View borrower profiles with complete borrowing history
 - Track active borrows per member
 
-#### 🔄 **Transaction Processing**
+#### **Transaction Processing**
 - Process book borrowing with automatic inventory updates
 - Record borrow dates and due dates
 - Handle book returns with one-click functionality
@@ -55,7 +55,7 @@ This project aims to achieve the following learning outcomes:
 - Automatic overdue detection
 - Complete transaction audit trail
 
-#### 📊 **Dashboard & Analytics**
+#### **Dashboard & Analytics**
 - Real-time statistics cards (Total Books, Borrowers, Active Transactions, Overdue Books)
 - Recent transactions overview
 - Overdue books alert panel with quick return actions
@@ -74,7 +74,7 @@ This project aims to achieve the following learning outcomes:
 
 ---
 
-## 🛠️ Installation Instructions
+## Installation Instructions
 
 ### **Prerequisites**
 
@@ -151,7 +151,7 @@ http://localhost:8000
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### **Getting Started**
 
@@ -208,7 +208,7 @@ Dashboard → Books → Use the search bar
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### **Dashboard Overview**
 
@@ -236,7 +236,7 @@ Dashboard → Books → Use the search bar
 
 ---
 
-## 💻 Code Snippets
+## Code Snippets
 
 ### **Book Model with Relationships**
 ```php
@@ -356,7 +356,7 @@ Schema::create('transactions', function (Blueprint $table) {
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 library-tps/
@@ -401,7 +401,7 @@ library-tps/
 
 ---
 
-## 🛡️ Database Schema
+## Database Schema
 
 ### **Tables and Relationships**
 
@@ -429,7 +429,7 @@ Relationships:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### **Manual Testing Checklist**
 
@@ -448,7 +448,7 @@ Relationships:
 
 ---
 
-## 🚧 Troubleshooting
+## Troubleshooting
 
 ### **Common Issues**
 
@@ -479,7 +479,7 @@ php artisan config:clear
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 Potential features for future versions:
 
@@ -496,7 +496,7 @@ Potential features for future versions:
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 **[Gilwu Asher Duque]**  
 - Role: Full-Stack Developer
@@ -535,7 +535,7 @@ SOFTWARE.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Laravel Framework** - For the robust PHP framework
 - **Bootstrap** - For the responsive CSS framework
@@ -544,7 +544,7 @@ SOFTWARE.
 
 ---
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions:
 
