@@ -211,28 +211,28 @@ Dashboard → Books → Use the search bar
 ## 📸 Screenshots
 
 ### **Dashboard Overview**
-```markdown
+
 ![Dashboard](screenshots/dashboard.png)
 *Main dashboard showing statistics, recent transactions, and overdue alerts*
-```
+
 
 ### **Books Management**
-```markdown
+
 ![Books List](screenshots/books-list.png)
 *Books listing with live search and stock indicators*
-```
+
 
 ### **Transaction Processing**
-```markdown
+
 ![New Transaction](screenshots/new-transaction.png)
 *Create new borrowing transaction with date selection*
-```
+
 
 ### **Borrower Profile**
-```markdown
+
 ![Borrower Profile](screenshots/borrower-profile.png)
 *Borrower details with complete borrowing history*
-```
+
 
 ---
 
